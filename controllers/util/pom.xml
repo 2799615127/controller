@@ -6,5 +6,11 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>util</artifactId>
-  哦草
+  <dependencies>
+   <dependency>
+        <groupId>org.mybatis</groupId>
+        <artifactId>mybatis</artifactId>
+        <version>3.4.1</version>
+    </dependency>
+   </dependencies>
 </project>
