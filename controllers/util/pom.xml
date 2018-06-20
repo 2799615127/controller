@@ -5,5 +5,7 @@
     <artifactId>controllers</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
+  <!--包名-->
   <artifactId>util</artifactId>
+  
 </project>
